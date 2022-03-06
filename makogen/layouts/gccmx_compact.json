@@ -1,0 +1,84 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [26.15, -33.75],
+        [0.0, -22.0],
+        [-26.65, -25.2],
+        [-53.3, -41.45]
+      ]
+    },
+    "properties": {
+      "type": "homerow",
+      "offsetx": -100,
+      "offsety": 58
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [-26.15, -11.75],
+        [0, 0],
+        [26.65, -3.2],
+        [53.3, -19.45],
+        [-26.15, -33.75],
+        [0, -22],
+        [26.65, -25.2],
+        [53.3, -41.45]
+      ]
+    },
+    "properties": {
+      "type": "homerow",
+      "offsetx": 100,
+      "offsety": 58
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [-70.0, -45.0],
+        [-51.5, -57.75]
+      ]
+    },
+    "properties": {
+      "type": "thumb",
+      "offsetx": -100,
+      "offsety": 58
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [0, 0],
+        [-18.5, -12.75],
+        [0, 25.5],
+        [-18.5, 12.75],
+        [18.5, 12.75]
+      ]
+    },
+    "properties": {
+      "type": "thumb",
+      "offsetx": 70,
+      "offsety": -45
+    }
+  }, {
+    "type": "Feature",
+    "geometry": {
+      "type": "MultiPoint",
+      "coordinates": [
+        [0, 0]
+      ]
+    },
+    "properties": {
+      "type": "aux",
+      "offsetx": 0,
+      "offsety": 18
+    }
+  }]
+}
